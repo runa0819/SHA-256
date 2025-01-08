@@ -1,0 +1,26 @@
+[
+    {
+        "student_id": "234585847",
+        "action": "entry",
+        "timestamp": "2024-12-19T09:50:17.822043",
+        "hash": "5c15cd3e2d0377e4049e98bc6a82a7d37687c82a36905a7e35e4972c076181de"
+    },
+    {
+        "student_id": "212011391",
+        "action": "exit",
+        "timestamp": "2024-12-19T09:54:48.572655",
+        "hash": "949fcd648b3cbaa78f4df6d2b2a9808ad87ddbfda503a49c7b0da9dd25c5a8eb"
+    },
+    {
+        "student_id": "121345645",
+        "action": "exit",
+        "timestamp": "2024-12-19T09:55:42.807529",
+        "hash": "53041a63b9159c862ed5aaa085148e3b4faf2cd6e68a43479d0512a11adadab2"
+    },
+    {
+        "student_id": "475837465",
+        "action": "entry",
+        "timestamp": "2024-12-19T09:55:59.267686",
+        "hash": "16b08aa39294b333845a8fd0d3381bb3d2568e25b33e92ab1a486082a3a2474b"
+    }
+]
